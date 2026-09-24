@@ -54,7 +54,7 @@ More projects and experiments coming soon! 🚀
 
 ## 👩‍💻 About Me
 
-I'm an MBA student exploring Artificial Intelligence, Machine Learning, and data-driven technologies.
+I'm an MTech. student exploring Artificial Intelligence, Machine Learning, and data-driven technologies.
 
 This repository documents my learning journey and practical work during the AI Boot Camp.
 
